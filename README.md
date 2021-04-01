@@ -6,10 +6,10 @@ This project is the last course on Python for Everybody Specialization on Course
 
 ### Files in the project
 <ul>
- <li>**spider.py:** web crawling program and stores the result in a database </li>
- <li>**sprank.py:** implementation of page rank algorithm</li>
- <li>**spjson.py:** loads the data to json </li>
- <li>**spdump.py:** fetches the data from database</li>
- <li>**spreset.py:** resets the rank to 1 in database</li> 
- <li>**force.html:** visualizes the data with the help of force.js </li>
+ <li>__spider.py:__ web crawling program and stores the result in a database </li>
+ <li>sprank.py: implementation of page rank algorithm</li>
+ <li>spjson.py: loads the data to json </li>
+ <li>spdump.py: fetches the data from database</li>
+ <li>spreset.py: resets the rank to 1 in database</li> 
+ <li>force.html: visualizes the data with the help of force.js </li>
 </ul>
